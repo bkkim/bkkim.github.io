@@ -12,4 +12,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[seansun79@gmail.com](mailto:seansun79@gmail.com)
+[seansun79@nate.com](mailto:seansun79@nate.com)
